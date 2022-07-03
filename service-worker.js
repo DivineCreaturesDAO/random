@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/DivineCreaturesDAO/random/precache-manifest.90659c282e03a6bfe0d378c92d07c1e7.js"
+  "/random/precache-manifest.c41d885bd33a78f2285b4b9030158fb2.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/DivineCreaturesDAO/random/index.html", {
+workbox.routing.registerNavigationRoute("/random/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });

@@ -1,15 +1,15 @@
 {
-  "main.css": "/DivineCreaturesDAO/random/static/css/main.7fc01a72.chunk.css",
-  "main.js": "/DivineCreaturesDAO/random/static/js/main.dd46e2cd.chunk.js",
-  "main.js.map": "/DivineCreaturesDAO/random/static/js/main.dd46e2cd.chunk.js.map",
-  "static/js/1.90f74325.chunk.js": "/DivineCreaturesDAO/random/static/js/1.90f74325.chunk.js",
-  "static/js/1.90f74325.chunk.js.map": "/DivineCreaturesDAO/random/static/js/1.90f74325.chunk.js.map",
-  "static/js/2.dbaa17cb.chunk.js": "/DivineCreaturesDAO/random/static/js/2.dbaa17cb.chunk.js",
-  "static/js/2.dbaa17cb.chunk.js.map": "/DivineCreaturesDAO/random/static/js/2.dbaa17cb.chunk.js.map",
-  "runtime~main.js": "/DivineCreaturesDAO/random/static/js/runtime~main.d97871e2.js",
-  "runtime~main.js.map": "/DivineCreaturesDAO/random/static/js/runtime~main.d97871e2.js.map",
-  "static/css/main.7fc01a72.chunk.css.map": "/DivineCreaturesDAO/random/static/css/main.7fc01a72.chunk.css.map",
-  "index.html": "/DivineCreaturesDAO/random/index.html",
-  "precache-manifest.90659c282e03a6bfe0d378c92d07c1e7.js": "/DivineCreaturesDAO/random/precache-manifest.90659c282e03a6bfe0d378c92d07c1e7.js",
-  "service-worker.js": "/DivineCreaturesDAO/random/service-worker.js"
+  "main.css": "/random/static/css/main.7fc01a72.chunk.css",
+  "main.js": "/random/static/js/main.dd46e2cd.chunk.js",
+  "main.js.map": "/random/static/js/main.dd46e2cd.chunk.js.map",
+  "static/js/1.90f74325.chunk.js": "/random/static/js/1.90f74325.chunk.js",
+  "static/js/1.90f74325.chunk.js.map": "/random/static/js/1.90f74325.chunk.js.map",
+  "static/js/2.dbaa17cb.chunk.js": "/random/static/js/2.dbaa17cb.chunk.js",
+  "static/js/2.dbaa17cb.chunk.js.map": "/random/static/js/2.dbaa17cb.chunk.js.map",
+  "runtime~main.js": "/random/static/js/runtime~main.5e7e9fe0.js",
+  "runtime~main.js.map": "/random/static/js/runtime~main.5e7e9fe0.js.map",
+  "static/css/main.7fc01a72.chunk.css.map": "/random/static/css/main.7fc01a72.chunk.css.map",
+  "index.html": "/random/index.html",
+  "precache-manifest.c41d885bd33a78f2285b4b9030158fb2.js": "/random/precache-manifest.c41d885bd33a78f2285b4b9030158fb2.js",
+  "service-worker.js": "/random/service-worker.js"
 }
