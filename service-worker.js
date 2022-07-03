@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/DivineCreaturesDAO/random/precache-manifest.533702a9249c4bcfc20a474b9c647374.js"
+  "/DivineCreaturesDAO/random/precache-manifest.90659c282e03a6bfe0d378c92d07c1e7.js"
 );
 
 workbox.clientsClaim();
